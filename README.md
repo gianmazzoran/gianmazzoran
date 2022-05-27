@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bytemore
-- 👀 I’m interested in E-commerce and SaaS applications
+- 👀 I’m interested in SaaS applications
 - 📫 How to reach me gianmarco.mazzoran@gmail.com or on Discord bytemore#0356
 
 <!---
