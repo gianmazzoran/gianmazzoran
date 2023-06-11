@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bytemore
+- 👋 Hi, I’m Gianmarco
 - 👀 I’m interested in SaaS applications
-- 📫 How to reach me gianmarco.mazzoran@gmail.com or on Discord bytemore#0356
+- 📫 How to reach me gianmarco.mazzoran@gmail.com
 
 <!---
 gianmazzoran/gianmazzoran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
